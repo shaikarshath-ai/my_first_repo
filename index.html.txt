@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="te">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Naa Modati Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome To My Website!</h1>
+        <p>Nenu srustinchina modati website idi.</p>
+    </header>
+
+    <main>
+        <section class="about">
+            <h2>Naa Gurinchi</h2>
+            <p>Nenu kotha ga web development nerchukuntunnanu. Ee site ni GitHub Pages lo host chesa!</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2026 Naa Website. All rights reserved.</p>
+    </footer>
+</body>
+</html>
